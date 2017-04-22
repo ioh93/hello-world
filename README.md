@@ -1,3 +1,2 @@
 # hello-world
-My first repository, created with tutorial at https://guides.github.com/activities/hello-world/
-I've edited this README file, for tutorial purposes.
+Hi, I like embedded systems and I'm trying to learn how to GitHub, to be more productive (maybe?). <br> Gotta figure out formatting readme tho.
